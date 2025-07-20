@@ -283,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: mohamed.amine.macherki@example.com
+- 📧 Email:mohamedamine.macherki@ieee.org
 - 💬 Slack: #devops-platform
 - 📖 Documentation: [docs.devops-platform.com](https://docs.devops-platform.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/MohamedAmineMacherki/devops-cicd-platform/issues)
